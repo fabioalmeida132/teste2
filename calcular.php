@@ -6,3 +6,5 @@
     $soma = new Teste($n1,$n2);
 
     echo $soma->somar();
+
+    //teste
